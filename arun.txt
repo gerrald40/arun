@@ -1,0 +1,10 @@
+ Volume in drive D has no label.
+ Volume Serial Number is 16C7-C44F
+
+ Directory of D:\git repository
+
+07/22/2021  02:16 AM    <DIR>          .
+07/22/2021  02:16 AM    <DIR>          ..
+07/22/2021  02:16 AM                 0 arun.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  13,525,663,744 bytes free
